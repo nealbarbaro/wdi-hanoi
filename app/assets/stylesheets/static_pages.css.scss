@@ -1,0 +1,19 @@
+#container{
+  overflow: hidden;
+}
+
+.peg{
+  float: left;
+  width: 75px;
+  margin: 0 15px 0 0;
+  padding: 0;
+  border-bottom: 3px solid #333;
+}
+
+.disc{
+  display: block;
+  list-style: none;
+  border: 1px solid #ccc;
+  text-align: center;
+  margin-bottom: 2px;
+}
